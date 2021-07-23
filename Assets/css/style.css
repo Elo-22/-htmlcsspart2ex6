@@ -1,0 +1,9 @@
+body
+{
+    background-image: url("../Image/Fond.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+}
+p
+{
+    color: white;
+}
